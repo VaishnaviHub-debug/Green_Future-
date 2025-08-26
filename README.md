@@ -25,7 +25,6 @@ GreenFuture is a simple yet powerful website which is built with **HTML, CSS, an
 ##  Images 
 ![LOGO] <img width="1536" height="1024" alt="logo" src="https://github.com/user-attachments/assets/abd4f66a-54f1-481d-a5e7-ddae42f768cf" />
  
- ** ScreenShots** 
  
 -> ![Screenshot 1] <img width="1920" height="921" alt="Screenshot 2025-08-26 161118" src="https://github.com/user-attachments/assets/c99de032-89af-443d-9319-052a0372dd99" />
 -> ![Screenshot_2] <img width="1920" height="904" alt="Screenshot 2025-08-26 161423" src="https://github.com/user-attachments/assets/ee5de415-210d-47f6-8524-49f04a58344b" />
