@@ -22,8 +22,8 @@ GreenFuture is a simple yet powerful website which is built with **HTML, CSS, an
 -> **JavaScript** – feedback form & navbar highlighting  
 
 
-![GreenFuture Logo](assets/greenfuture-logo.png)
-![Logo](https://github.com/VaishnaviHub-debug/GreenFuture/blob/main/assets/logo.png)
 
 ## ScreenShots
--> 
+-> ![Screenshot 1]( <img width="1920" height="962" alt="ss_1" src="https://github.com/user-attachments/assets/04e78557-e883-4510-9cfd-52e12c9cf382" /> )
+
+
