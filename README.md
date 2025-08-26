@@ -12,7 +12,7 @@ GreenFuture is a simple yet powerful website which is built with **HTML, CSS, an
 -> **About Nature** – highlighting the beauty of nature and a motive to save our Earth.  
 -> **Feedback Form** – lets visitors share their thoughts and support.  
 -> **Green Theme Design** – eco-friendly colors, responsive layout, and hover effects.
-**NOTE** : These are not the only ways to protect our nature. There are many more, but it is we who must act for the sake of mankind.
+----> **NOTE** : These are not the only ways to protect our nature. There are many more, but it is we who must act for the sake of mankind.
    For the next generation, this beautiful nature should not become an extinction, but remains as a beautiful creation of God.
 
 ## 📂 Tech Stack  
